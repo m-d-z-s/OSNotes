@@ -3,4 +3,4 @@ project(OSNotes)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(OSNotes main.cpp)
+add_executable(OSNotes 2_seminar/task_1.cpp)
